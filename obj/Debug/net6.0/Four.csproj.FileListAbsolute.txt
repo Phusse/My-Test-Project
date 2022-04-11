@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\Codebase\Clone\Four\obj\Debug\net6.0\Four.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\Codebase\Clone\Four\obj\Debug\net6.0\Four.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\Codebase\Clone\Four\obj\Debug\net6.0\Four.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\Codebase\Clone\Four\obj\Debug\net6.0\Four.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Codebase\Clone\Four\obj\Debug\net6.0\Four.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Codebase\Clone\Four\bin\Debug\net6.0\Four.exe
+C:\Users\hp\OneDrive\Desktop\Codebase\Clone\Four\bin\Debug\net6.0\Four.deps.json
+C:\Users\hp\OneDrive\Desktop\Codebase\Clone\Four\bin\Debug\net6.0\Four.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\Codebase\Clone\Four\bin\Debug\net6.0\Four.dll
+C:\Users\hp\OneDrive\Desktop\Codebase\Clone\Four\bin\Debug\net6.0\Four.pdb
+C:\Users\hp\OneDrive\Desktop\Codebase\Clone\Four\obj\Debug\net6.0\Four.dll
+C:\Users\hp\OneDrive\Desktop\Codebase\Clone\Four\obj\Debug\net6.0\refint\Four.dll
+C:\Users\hp\OneDrive\Desktop\Codebase\Clone\Four\obj\Debug\net6.0\Four.pdb
+C:\Users\hp\OneDrive\Desktop\Codebase\Clone\Four\obj\Debug\net6.0\Four.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\Codebase\Clone\Four\obj\Debug\net6.0\ref\Four.dll
