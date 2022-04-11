@@ -18,7 +18,7 @@
     Console.WriteLine("Your Option?");
     
     switch(Console.ReadLine())
-
+    //here we declare and tell the code what to do
     {
       case "a":
       Console.WriteLine($"Your Result : {num1} + {num2} = " + (num1 + num2));
